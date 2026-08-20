@@ -26,3 +26,11 @@ Java, OOP, Java Swing, Collections, File I/O, CSV.
 Open `src/StaySmartApp.java` in VS Code and choose **Run Java**.
 
 This is an educational simulation, not a real hotel inventory or payment system.
+
+#Project Output
+
+<img width="1885" height="968" alt="image" src="https://github.com/user-attachments/assets/9cbb3a47-4365-4942-b203-a85903046bf5" />
+
+
+
+
